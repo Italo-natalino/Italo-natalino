@@ -1,29 +1,4 @@
-name: Generate Snake Game 🐍
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
-
-      - name: Gerar cobrinha a partir das contribuições
-        uses: Platane/snk@v3
-        with:
-          github_user_name: seuusuario
-          outputs: |
-            ./output/github-contribution-grid-snake.svg
-
-      - name: Commit do resultado
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Atualiza animação da cobrinha"
-          add: "output/github-contribution-grid-snake.svg"
 
 <h1 align="center">Olá! Eu sou Ítalo Natalino 👋</h1>
 <p align="center">
