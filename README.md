@@ -11,8 +11,8 @@
 
 Sou um(a) profissional apaixonado(a) por dados, com sólida experiência em análise, visualização e modelagem preditiva. Trabalho com foco em transformar dados em insights acionáveis que geram valor para negócios e organizações.
 
-- 🎓 Formação em [Seu Curso] pela [Sua Universidade]
-- 💼 +[X anos] de experiência com dados em projetos reais
+- 🎓 Formação em andamento em Ciência de Dados pela Descomplica
+- 💼 +3 anos de experiência com dados em projetos reais
 - 📊 Forte domínio em Python, SQL, estatística e machine learning
 - 📈 Experiência com dashboards (Power BI, Tableau) e storytelling de dados
 - 🤖 Interesse especial por NLP, séries temporais e ciência de dados aplicada a negócios
