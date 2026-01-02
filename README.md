@@ -49,7 +49,7 @@ Aplicação interativa com filtros, gráficos e visualizações em tempo real.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/italo.natalino)
 - 🌐 [Portfólio/Data Blog](https://www.italonatalino.com.br)
-- ✉️ contato: italo@italonatalino.com.br
+- ✉️ contato: italo.natalino@gmail.com
 
 ---
 
