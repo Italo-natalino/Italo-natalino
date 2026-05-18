@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá! Eu sou Ítalo Natalino 👋</h1>
 <p align="center">
-  Cientista de Dados | Analista de Dados | Entusiasta de Machine Learning
+  Supervisor Comercial | Analista de Dados | Entusiasta de Machine Learning
 </p>
 
 ---
@@ -11,11 +11,11 @@
 
 Sou um(a) profissional apaixonado(a) por dados, com sólida experiência em análise, visualização e modelagem preditiva. Trabalho com foco em transformar dados em insights acionáveis que geram valor para negócios e organizações.
 
-- 🎓 Formação em andamento em Ciência de Dados pela Descomplica
-- 💼 +3 anos de experiência com dados em projetos reais
-- 📊 Forte domínio em Python, SQL, estatística e machine learning
+- 🎓 Formação em andamento em Gestão Comercial e Engenharia da Computação
+- 💼 +20 anos de experiência com Liderança e gestão de times comerciais
+- 📊 Forte domínio em Python, SQL e Excel
 - 📈 Experiência com dashboards (Power BI, Tableau) e storytelling de dados
-- 🤖 Interesse especial por NLP, séries temporais e ciência de dados aplicada a negócios
+- 🤖 Interesse especial por ciência de dados aplicada a negócios
 
 ---
 
@@ -47,7 +47,7 @@ Aplicação interativa com filtros, gráficos e visualizações em tempo real.
 
 📫 **Vamos nos conectar?**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/italo.natalino)
+- 💼 [LinkedIn](https://www.linkedin.com/in/italo-natalino)
 - 🌐 [Portfólio/Data Blog](https://www.italonatalino.com.br)
 - ✉️ contato: italo.natalino@gmail.com
 
