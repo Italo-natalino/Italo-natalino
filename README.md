@@ -13,7 +13,7 @@ Sou um(a) profissional apaixonado(a) por dados, com sólida experiência em aná
 
 - 🎓 Formação em andamento em Gestão Comercial e Engenharia da Computação
 - 💼 +20 anos de experiência com Liderança e gestão de times comerciais
-- 📊 Forte domínio em Python, SQL e Excel
+- 📊 Forte domínio em Vendas, Python, SQL e Excel
 - 📈 Experiência com dashboards (Power BI, Tableau) e storytelling de dados
 - 🤖 Interesse especial por ciência de dados aplicada a negócios
 
